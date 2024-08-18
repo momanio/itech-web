@@ -66,17 +66,16 @@ export default function Features() {
           variants={content}
           className="text-center flex flex-col items-center"
         >
-          <Subtitle style="mb-2">360° CUSTOMIZABLE</Subtitle>
+          <Subtitle style="mb-2">Itech Mobile Store</Subtitle>
           <SubHead style="mb-[18px] sm:w-8/12 md:w-9/12 lg:w-7/12">
-            Have full control over your online store
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer id
           </SubHead>
           <Paragraph
             fontSize="text-sm"
             color="text-black-400"
             style="sm:w-3/5 md:w-7/12 lg:w-1/3"
           >
-            Take total control of your eCommerce business by owning the source
-            code and data that drive it.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer id
           </Paragraph>
         </motion.div>
 
